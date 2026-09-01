@@ -1,8 +1,7 @@
-# TaxisDB
 
 ## Welcome to TaxisDB 👋
 
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/taxisdb/taxisdb)
+[![TaxisDB](assets/taxisdb.jpg)](https://taxisdb.com/projects/taxis-db/)
 
 TaxisDB is a metamodel-driven, reflective, temporal, immutable, fact-oriented database engine implemented on top of YottaDB.
 
