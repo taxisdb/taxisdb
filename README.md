@@ -3,7 +3,7 @@
 [![TaxisDB](assets/taxisdb.jpg)](https://taxisdb.com/projects/taxis-db/)
 
 
-[TaxisDB](https://taxisdb.com) is a metamodel-driven, reflective, temporal, immutable, triple-oriented database engine implemented on top of [YottaDB](https://yottadb.com/). See also the sister project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base) at the official web site of TaxisDB.
+[TaxisDB](https://taxisdb.com) is a temporal, immutable, reflective, triple-oriented database engine implemented on top of [YottaDB](https://yottadb.com/). See also the sister project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base) at the official web site of TaxisDB.
 
 
 TaxisDB treats both domain triples and the model that describes those triples as first-class data. Rather than representing information primarily as mutable rows or documents, it represents changes as immutable assertions and preserves their transaction history.
@@ -13,7 +13,7 @@ TaxisDB is built on a few core ideas:
 - **Temporal** — transaction time is a first-class dimension, so historical database states can be reconstructed.
 - **Immutable** — triples are asserted, not overwritten; history is part of the database rather than an external audit log.
 - **Triple-oriented** — the base unit of information is an EATV-style triple rather than a mutable row or document.
-- **Reflective & metamodel-driven** — the model itself (types, attributes, constraints) is represented as data and can be introspected at runtime.
+- **Reflective** — the model itself (types, attributes, constraints) is represented as data and can be introspected at runtime.
 - **Built on YottaDB** — durable storage, ACID transactions, concurrency, journaling, recovery, and replication are delegated to YottaDB's serverless, in-process architecture, leaving TaxisDB free to focus on logical database semantics.
 
 For the full architectural write-up see [TaxisDB project page](https://taxisdb.com/projects/taxis-db/). For a deeper look at the ideas behind TaxisDB and substrate architecture, read our article [Every Database Had Its Own Storage Engine — Then Came Substrate Architecture.](https://taxisdb.com/posts/every-database-had-its-own-storage-engine-then-came-substrate-architecture/)
