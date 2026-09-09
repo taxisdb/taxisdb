@@ -9,7 +9,9 @@
   </button>
 </a>
 
-[TaxisDB, official web site,](https://taxisdb.com) is a metamodel-driven, reflective, temporal, immutable, triple-oriented database engine implemented on top of [YottaDB](https://yottadb.com/). See also the sister project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base) at the official web site of TaxisDB.
+
+
+[TaxisDB](https://taxisdb.com) is a metamodel-driven, reflective, temporal, immutable, triple-oriented database engine implemented on top of [YottaDB](https://yottadb.com/). See also the sister project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base) at the official web site of TaxisDB.
 
 TaxisDB treats both domain triples and the model that describes those triples as first-class data. Rather than representing information primarily as mutable rows or documents, it represents changes as immutable assertions and preserves their transaction history.
 
@@ -21,7 +23,7 @@ TaxisDB is built on a few core ideas:
 - **Reflective & metamodel-driven** — the model itself (types, attributes, constraints) is represented as data and can be introspected at runtime.
 - **Built on YottaDB** — durable storage, ACID transactions, concurrency, journaling, recovery, and replication are delegated to YottaDB's serverless, in-process architecture, leaving TaxisDB free to focus on logical database semantics.
 
-For the full architectural write-up see [TaxisDB project page](https://taxisdb.com/projects/taxis-db/). For a deeper look at the ideas behind TaxisDB and substrate architecture, read our article [Every Database Had Its Own Storage Engine — Then Came Substrate Architecture.](posts/every-database-had-its-own-storage-engine-then-came-substrate-architecture.md)
+For the full architectural write-up see [TaxisDB project page](https://taxisdb.com/projects/taxis-db/). For a deeper look at the ideas behind TaxisDB and substrate architecture, read our article [Every Database Had Its Own Storage Engine — Then Came Substrate Architecture.](https://taxisdb.com/posts/every-database-had-its-own-storage-engine-then-came-substrate-architecture/)
 
 ## TaxisDB License at a Glance
 
@@ -41,4 +43,4 @@ For developers visit:
 - [API Flow: Summary](https://taxisdb.com/api-flow/summary/) — a concise overview of the TaxisDB API architecture.
 
 For database architects  and researchers in database field visit:
-- [Every Database Had Its Own Storage Engine, Then Came Substrate Architecture](https://github.com/taxisdb/taxisdb/blob/main/posts/every-database-had-its-own-storage-engine-then-came-substrate-architecture.md) — how a reusable transactional substrate can support substantially different database abstractions.
+- [Every Database Had Its Own Storage Engine — Then Came Substrate Architecture.](https://taxisdb.com/posts/every-database-had-its-own-storage-engine-then-came-substrate-architecture/) — how a reusable transactional substrate can support substantially different database abstractions.
