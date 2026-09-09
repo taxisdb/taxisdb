@@ -7,16 +7,16 @@
 ```
 
 
-For more information visit
-[TaxisDB — LICENSE AT A GLANCE ](https://taxisdb.com/docs/taxis-db-license-at-a-glance/)
-# 🔓 Open-Source License: Server Side Public License (SSPLv1)
+TaxisDB is an open source project. This document explains how SSPL license is applied on TaxisDB. For more information visit the [License Documentation section](http://taxisdb.com/docs/#category-license) at the official web site of TaxisDB
+
+## 🔓 Server Side Public License (SSPLv1)
 
 **Use TaxisDB freely. Share improvements. Open your service stack when offering TaxisDB as a service.**
 
-SSPLv1 is a strong copyleft license designed for database and server software.  
+[SSPLv1](http://taxisdb.com/docs/sspl) is a strong copyleft license designed for database and server software.  
 It allows internal use, development, and distribution — while ensuring that hosted services built around TaxisDB remain open.
 
-## ✅ You CAN:
+### ✅ You CAN:
 
 - 🧪 Use TaxisDB for evaluation, testing, and prototyping
 - 🏢 Use TaxisDB internally within your organization
@@ -24,7 +24,7 @@ It allows internal use, development, and distribution — while ensuring that ho
 - 📦 Redistribute TaxisDB according to SSPLv1 terms
 - 🔒 Build closed-source applications that use TaxisDB (when not providing TaxisDB as a service)
     
-## 📜 You MUST open-source:
+### 📜 You MUST open-source:
 
 - 🧩 Modified versions of TaxisDB when distributed
 - 🔧 Derivative works of TaxisDB covered by SSPLv1
@@ -32,18 +32,18 @@ It allows internal use, development, and distribution — while ensuring that ho
 - 🏗 Components required to provide that hosted TaxisDB service
     
 
-## ❌ You MUST NOT:
+### ❌ You MUST NOT:
 
 - 🚫 Offer TaxisDB as a public database service while keeping the required service source code private
 - 🚫 Remove license notices or copyright information
 - 🚫 Use TaxisDB trademarks to misrepresent unofficial products or forks
 
 
-# 💼 Commercial License (For Proprietary Services)
+## 💼 Commercial License (For Proprietary Services)
 
 **Need to keep your hosted service or product closed-source? Use a commercial license.**
 
-## Commercial licensing allows:
+### Commercial licensing allows:
 
 - 🔒 Proprietary cloud database services
 - 🔒 Closed-source managed hosting
@@ -52,7 +52,7 @@ It allows internal use, development, and distribution — while ensuring that ho
 - 🔒 Commercial products without SSPL service obligations
     
 
-## 🧭 Quick Decision Guide
+### 🧭 Quick Decision Guide
 
 ```text
 IF you use TaxisDB internally
@@ -72,7 +72,7 @@ IF you want a proprietary hosted service
 ```
 
 
-## 📌 Summary Box (copy/paste into README)
+### 📌 Summary Box (copy/paste into README)
 
 ```text
 SSPLv1:
@@ -88,7 +88,7 @@ Commercial License:
 ```
 
 
-# 📞 Licensing Contact
+## 📞 Licensing Contact
 
 For commercial licensing inquiries:
 
