@@ -1,14 +1,8 @@
 ## Welcome to TaxisDB 👋
 
-<a href="https://taxisdb.com/projects/taxis-db/">
-  <button class="btn btn-primary w-full">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" alt="GitHub">
-    TaxisDB Project
-  </button>
-</a>
-
-
 [![TaxisDB](assets/taxisdb.jpg)](https://taxisdb.com/projects/taxis-db/)
+
+
 [TaxisDB](https://taxisdb.com) is a metamodel-driven, reflective, temporal, immutable, triple-oriented database engine implemented on top of [YottaDB](https://yottadb.com/). See also the sister project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base) at the official web site of TaxisDB.
 
 
