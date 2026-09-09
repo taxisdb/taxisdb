@@ -20,7 +20,7 @@ For the full architectural write-up see [TaxisDB project page](https://taxisdb.c
 
 ## TaxisDB License at a Glance
 
-TaxisDB is an open source project. The [TaxisDB License at a Glance](https://taxisdb.com/docs/taxis-db-license-at-a-glance) document explains how the SSPL license is applied to TaxisDB. For more information, visit the [License Documentation section](https://taxisdb.com/docs/#category-license) at the official TaxisDB website. The project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base/) is governed by a different licence. Read [TaxisBase License At a Glance](https://taxisdb.com/docs/taxis-base-license-at-a-glance/) to understand the difference.
+TaxisDB is an open source project. The [TaxisDB License at a Glance](https://taxisdb.com/docs/taxis-db-license-at-a-glance) document explains how the [SSPL](https://taxisdb.com/docs/sspl) license is applied to TaxisDB. For more information, visit the [License Documentation section](https://taxisdb.com/docs/#category-license) at the official TaxisDB website. The project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base/) is governed by a different licence. Read [TaxisBase License At a Glance](https://taxisdb.com/docs/taxis-base-license-at-a-glance/) to understand the difference.
 
 ## What should I visit next?
 For the complete set of architectural documentation, API guides, and TaxisBase documentation, visit the official [TaxisDB website documentation](https://taxisdb.com/docs/) that includes:
