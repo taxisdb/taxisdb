@@ -6,8 +6,11 @@
     TaxisDB Project
   </button>
 </a>
+
+
 [![TaxisDB](assets/taxisdb.jpg)](https://taxisdb.com/projects/taxis-db/)
 [TaxisDB](https://taxisdb.com) is a metamodel-driven, reflective, temporal, immutable, triple-oriented database engine implemented on top of [YottaDB](https://yottadb.com/). See also the sister project [HermesBase-TaxisBase](https://taxisdb.com/projects/hermes-base) at the official web site of TaxisDB.
+
 
 TaxisDB treats both domain triples and the model that describes those triples as first-class data. Rather than representing information primarily as mutable rows or documents, it represents changes as immutable assertions and preserves their transaction history.
 
